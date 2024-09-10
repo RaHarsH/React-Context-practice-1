@@ -13,7 +13,9 @@ const Login = () => {
 
   return (
     <>
-    <h1 className='bg-gradient-to-r from-gray-800 via-gray-900 to-black text-center text-gray-400 text-xl font-bold'>React Context API practice-1</h1>
+    <h1 className='bg-gradient-to-r from-gray-800 via-gray-900 to-black text-center text-gray-400 text-xl font-bold'>
+        React Context API practice-1
+    </h1>
     <div className="flex justify-center items-center h-screen bg-gradient-to-r from-gray-800 via-gray-900 to-black">
       <div className="bg-black/50 backdrop-blur-md p-8 rounded-lg shadow-lg max-w-md w-full">
         <h2 className="text-3xl font-bold text-center text-white mb-6">Login</h2>
