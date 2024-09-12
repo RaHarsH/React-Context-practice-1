@@ -2,7 +2,7 @@
 
 This project is a simple implementation of the **React Context API** to understand how and why context is used in React applications. By practicing with a basic user authentication flow, I learned how to manage global state without the need for prop drilling.
 
-## What I Learned
+## What I Learnt
 
 ### Why Context is Used:
 In React, when managing state across multiple components, especially deeply nested ones, `prop drilling` can become cumbersome. This is where **React Context API** comes in handy. It allows us to create a global state that can be accessed by any component, regardless of its depth in the component tree. This makes managing shared state simpler and more efficient.
